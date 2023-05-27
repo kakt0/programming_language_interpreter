@@ -1,0 +1,31 @@
+program
+{
+        int a = 51, b = 6, c=+1;
+        string x = "abc 123", y, z = "abcd";
+        bool d=false;
+        int min=-5;
+        write(min);
+        c = (a + b) * 2;
+        if ((c >= 100) or (x == z))
+        {
+                read (y);
+                write (y);
+                write (x + y + z, c);
+        }
+        else
+                c = a = 21;
+        a=-a;
+        d=true or false;
+        while( c > 100)
+        {
+                do{
+                        b=b+50;
+                }
+                while(b<200);
+                c = c - 5;
+                write (c);
+                x = x + "step";
+        }
+        write (x);
+	write("e123e");
+}

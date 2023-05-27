@@ -1,0 +1,6 @@
+program{
+        1+1;
+        write("Hello, world!", "Bye");
+        while(false)
+                write("false");
+}

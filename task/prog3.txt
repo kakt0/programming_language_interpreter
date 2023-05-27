@@ -1,0 +1,5 @@
+program {
+    	int x=2, y=5;
+    	x=(x+x+y)/2;
+	write(x);
+}

@@ -1,0 +1,4 @@
+program{
+        int a=-2, b;
+        b=a/0; /* ERROR: divide by zero*/
+}

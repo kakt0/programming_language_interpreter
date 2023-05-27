@@ -1,0 +1,5 @@
+program {
+	string a = "abc";
+    	int b = 2, c;
+    	write(a + b); /* ERROR: different types */
+}

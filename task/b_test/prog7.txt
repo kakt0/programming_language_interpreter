@@ -1,0 +1,5 @@
+program{
+        int a=-2, b;
+	string x="aaaa";
+        b=a/x; /* ERROR: wrong types*/
+}
